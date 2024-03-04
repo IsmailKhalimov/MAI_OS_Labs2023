@@ -1,0 +1,6 @@
+/home/ismail/labs/OS/lab4/build/CMakeFiles/lib1.dir
+/home/ismail/labs/OS/lab4/build/CMakeFiles/lib2.dir
+/home/ismail/labs/OS/lab4/build/CMakeFiles/main_static.dir
+/home/ismail/labs/OS/lab4/build/CMakeFiles/main_dynamic.dir
+/home/ismail/labs/OS/lab4/build/CMakeFiles/edit_cache.dir
+/home/ismail/labs/OS/lab4/build/CMakeFiles/rebuild_cache.dir

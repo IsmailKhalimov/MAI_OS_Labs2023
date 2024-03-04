@@ -1,0 +1,2 @@
+/usr/bin/ar qc libKP_lib.a CMakeFiles/KP_lib.dir/src/allocator/ListAllocator.cpp.o CMakeFiles/KP_lib.dir/src/allocator/MacKuseyCarelsAllocator.cpp.o CMakeFiles/KP_lib.dir/src/benchmarks/benchmark.cpp.o
+/usr/bin/ranlib libKP_lib.a

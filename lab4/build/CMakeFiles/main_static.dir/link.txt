@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_static.dir/main_static.cpp.o -o main_static  -Wl,-rpath,/home/ismail/labs/OS/lab4/build liblib1.so 

@@ -1,0 +1,4 @@
+/home/ismail/labs/OS/MAI_OS/KP/build/CMakeFiles/KP_lib.dir
+/home/ismail/labs/OS/MAI_OS/KP/build/CMakeFiles/KP_exe.dir
+/home/ismail/labs/OS/MAI_OS/KP/build/CMakeFiles/edit_cache.dir
+/home/ismail/labs/OS/MAI_OS/KP/build/CMakeFiles/rebuild_cache.dir

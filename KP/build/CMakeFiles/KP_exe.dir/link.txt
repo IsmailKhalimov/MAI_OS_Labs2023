@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/KP_exe.dir/run.cpp.o -o KP_exe  libKP_lib.a 
